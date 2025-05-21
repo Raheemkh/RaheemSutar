@@ -48,7 +48,7 @@ If you're looking for the `.java` files, they are not currently included. You ca
 Feel free to reach out if you'd like to collaborate or need help understanding the programs.
 
 * 📧 [raheemsutar456@gmail.com](mailto:raheemsutar456@gmail.com)
-* 🔗 [LinkedIn](linkedin.com/in/raheem-sutar)
+* 🔗 [LinkedIn](https://linkedin.com/in/raheem-sutar)
 
 ---
 
